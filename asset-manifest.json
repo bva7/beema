@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/beema/static/css/main.7b0fd751.chunk.css",
+    "main.js": "/beema/static/js/main.4c988fe3.chunk.js",
+    "main.js.map": "/beema/static/js/main.4c988fe3.chunk.js.map",
+    "runtime-main.js": "/beema/static/js/runtime-main.2ded751a.js",
+    "runtime-main.js.map": "/beema/static/js/runtime-main.2ded751a.js.map",
+    "static/css/2.5a56e992.chunk.css": "/beema/static/css/2.5a56e992.chunk.css",
+    "static/js/2.d737199e.chunk.js": "/beema/static/js/2.d737199e.chunk.js",
+    "static/js/2.d737199e.chunk.js.map": "/beema/static/js/2.d737199e.chunk.js.map",
+    "index.html": "/beema/index.html",
+    "precache-manifest.5fec833ebf5aec943fd785b977fc3093.js": "/beema/precache-manifest.5fec833ebf5aec943fd785b977fc3093.js",
+    "service-worker.js": "/beema/service-worker.js",
+    "static/css/2.5a56e992.chunk.css.map": "/beema/static/css/2.5a56e992.chunk.css.map",
+    "static/css/main.7b0fd751.chunk.css.map": "/beema/static/css/main.7b0fd751.chunk.css.map",
+    "static/js/2.d737199e.chunk.js.LICENSE.txt": "/beema/static/js/2.d737199e.chunk.js.LICENSE.txt",
+    "static/media/bug_fixed.png": "/beema/static/media/bug_fixed.eadd0216.png",
+    "static/media/company_team.jpg": "/beema/static/media/company_team.46fbb8fe.jpg",
+    "static/media/mobile_phone.png": "/beema/static/media/mobile_phone.4d813d7f.png",
+    "static/media/profile_picture_1.jpg": "/beema/static/media/profile_picture_1.1df99766.jpg",
+    "static/media/profile_picture_2.jpg": "/beema/static/media/profile_picture_2.d4699a1b.jpg",
+    "static/media/profile_picture_3.jpg": "/beema/static/media/profile_picture_3.3b546183.jpg",
+    "static/media/rocket_launch_.png": "/beema/static/media/rocket_launch_.12f741d0.png",
+    "static/media/web_development_.png": "/beema/static/media/web_development_.b443ed26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ded751a.js",
+    "static/css/2.5a56e992.chunk.css",
+    "static/js/2.d737199e.chunk.js",
+    "static/css/main.7b0fd751.chunk.css",
+    "static/js/main.4c988fe3.chunk.js"
+  ]
+}
